@@ -1,0 +1,22 @@
+D:\Проги\Editor\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Проги\Editor\Paint\obj\Debug\Paint.NewDialog.resources
+D:\Проги\Editor\Paint\obj\Debug\Paint.PaintForm.resources
+D:\Проги\Editor\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Проги\Editor\Paint\obj\Debug\Paint.TextDialog.resources
+D:\Проги\Editor\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Проги\Editor\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Проги\Editor\Paint\bin\Debug\Paint.exe
+D:\Проги\Editor\Paint\bin\Debug\Paint.pdb
+D:\Проги\Editor\Paint\obj\Debug\Paint.exe
+D:\Проги\Editor\Paint\obj\Debug\Paint.pdb
+D:\Проги\Editor — копия\Paint\bin\Debug\Paint.exe
+D:\Проги\Editor — копия\Paint\bin\Debug\Paint.pdb
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.NewDialog.resources
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.PaintForm.resources
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.Properties.Resources.resources
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.TextDialog.resources
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.exe
+D:\Проги\Editor — копия\Paint\obj\Debug\Paint.pdb
